@@ -1,1 +1,4 @@
 
+<Version: 1.0.0.1a>
+/data/Map001.json https://raw.githubusercontent.com/Norigoro21221/UpdaterErgistan/main/Map001.json
+<End of Version>
